@@ -8,4 +8,9 @@ Use a local copy of [JSLint](http://www.jslint.com/)
   * HTML is simply stripped down
   * JS just making nclik a global (or you can duplicate code).
 
+Installation :
+--------------
+
+    git clone git://github.com/ppierre/jslint-tmbundle.git JSLint.tmbundle
+
 > Un grand merci à Douglas Crockford sans qui écrire du code JavaScript serait un calvaire.
