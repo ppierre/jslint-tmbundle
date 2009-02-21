@@ -11,6 +11,8 @@ Use a local copy of [JSLint](http://www.jslint.com/)
 Installation :
 --------------
 
+    cd ~/Library/Application\ Support/TextMate/Bundles/
     git clone git://github.com/ppierre/jslint-tmbundle.git JSLint.tmbundle
+    osascript -e 'tell app "TextMate" to reload bundles'
 
 > Un grand merci à Douglas Crockford sans qui écrire du code JavaScript serait un calvaire.
