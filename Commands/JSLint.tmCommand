@@ -66,13 +66,13 @@ html_footer</string>
 	<key>input</key>
 	<string>document</string>
 	<key>keyEquivalent</key>
-	<string>^L</string>
+	<string>^@V</string>
 	<key>name</key>
 	<string>JSLint</string>
 	<key>output</key>
 	<string>showAsHTML</string>
 	<key>scope</key>
-	<string>source.js</string>
+	<string>source.js, text.html</string>
 	<key>uuid</key>
 	<string>7C42EAA4-BFD9-4C84-A13C-3442A496F124</string>
 </dict>
